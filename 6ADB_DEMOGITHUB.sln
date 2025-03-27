@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ADB_DEMOGITHUB", "6ADB_DEMOGITHUB\6ADB_DEMOGITHUB.csproj", "{DD650E12-1BA6-460A-8BB6-48CA22AE1EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD650E12-1BA6-460A-8BB6-48CA22AE1EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD650E12-1BA6-460A-8BB6-48CA22AE1EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD650E12-1BA6-460A-8BB6-48CA22AE1EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD650E12-1BA6-460A-8BB6-48CA22AE1EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B47E5B-DB77-4E56-9896-ADB31F393694}
+	EndGlobalSection
+EndGlobal
